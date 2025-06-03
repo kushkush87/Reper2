@@ -1,0 +1,10 @@
+2025-05-03 13:14:47,127 - __main__ - INFO - Starting Telegram bot...
+2025-05-03 13:14:47,797 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2025-05-03 13:14:47,799 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2025-05-03 13:14:48,105 - config - INFO - Using placeholder tag '@destination2510014428' for numeric channel ID
+2025-05-03 13:14:48,106 - config - INFO - Adding default t.me replacements with destination tag @destination2510014428
+2025-05-03 13:14:48,107 - config - INFO - Added 4 default t.me replacement patterns
+2025-05-03 13:14:48,109 - config - INFO - User client initialized with API_ID: 20584497
+2025-05-03 13:14:48,264 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2025-05-03 13:14:48,267 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-05-03 13:14:48,377 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
