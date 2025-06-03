@@ -1,0 +1,10 @@
+2025-05-03 13:14:53,319 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2025-05-03 13:14:53,321 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2025-05-03 13:14:53,663 - simple_media_reposter - INFO - Source channels: [2580593874]
+2025-05-03 13:14:53,664 - simple_media_reposter - INFO - Destination channels: [2510014428]
+2025-05-03 13:14:53,667 - simple_media_reposter - INFO - Initializing Telegram client with API_ID: 20584497
+2025-05-03 13:14:53,670 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-05-03 13:14:53,777 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-05-03 13:14:54,343 - simple_media_reposter - INFO - User client connected and authorized successfully
+2025-05-03 13:14:54,343 - simple_media_reposter - INFO - Added event handler for source channel: 2580593874
+2025-05-03 13:14:54,344 - simple_media_reposter - INFO - Simple Media Reposter is now running. Press Ctrl+C to stop.
